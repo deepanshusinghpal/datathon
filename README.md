@@ -80,8 +80,11 @@ You can also use the provided batch files for easier startup:
 - `POST /api/publish`: Publish curated news to Hashnode (coming soon)
 
 ## Screenshots
+![Screenshot 2025-04-02 002129](https://github.com/user-attachments/assets/42e5755e-372a-43f8-8c68-5058c9f48525)
+![Screenshot 2025-04-02 002206](https://github.com/user-attachments/assets/c1a01833-f82f-4120-8736-20e696b432fa)
 
-[Add your screenshots here]
+![Screenshot 2025-04-02 002226](https://github.com/user-attachments/assets/a8b9ca7a-9a96-4285-aa73-ceec54e73eda)
+
 
 ## Contributing
 
